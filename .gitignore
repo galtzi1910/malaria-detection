@@ -1,0 +1,8 @@
+# Folder of dataset
+data/
+
+# Folder of wandb
+wandb/
+
+# Folder of models
+models/
